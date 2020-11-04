@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'charts/helmtest/**'
+      - 'charts/**'
 
 jobs:
   release:
