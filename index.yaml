@@ -3,6 +3,16 @@ entries:
   sample:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2020-11-04T15:53:16.622256862Z"
+    description: A Helm chart for Kubernetes
+    digest: 6cca44d942edd1679e2ccd84718c166608ba75b4c33248eeeb456e325901ee4b
+    name: sample
+    type: application
+    urls:
+    - https://github.com/frank-bee/helmtest/releases/download/sample-0.1.3/sample-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2020-11-04T12:51:48.433268364Z"
     description: A Helm chart for Kubernetes
     digest: 64be2ecaa7c350c01afff9242c9b98a0653c051883b460476459b4d1f1820a9d
