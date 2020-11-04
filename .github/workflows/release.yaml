@@ -22,4 +22,4 @@ jobs:
         env:
           CR_TOKEN: '${{ secrets.CR_TOKEN }}'
         with:
-          charts_dir: "charts/sample" 
+          charts_dir: charts
