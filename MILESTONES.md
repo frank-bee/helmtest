@@ -9,6 +9,14 @@ just a dummy. one more line.
 
 line after empty line.
 
+### [Enhancement](https://github.com/frank-bee/helmtest/labels/enhancement)
+
+New feature or request
+
+#### Issues
+
+- [ ] dummy issue ([helmtest#2](https://github.com/frank-bee/helmtest/issues/2))
+
 ### [Epic](https://github.com/frank-bee/helmtest/labels/epic)
 
 #### Issues
