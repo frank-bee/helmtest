@@ -44,7 +44,7 @@ jobs:
         uses: ory/milestone-action@v0
         with:
           GITHUB_TOKEN: ${{ secrets.CR_TOKEN }}
-          onlyLabels: epic
+          onlyLabels: epic, enhancement
       - name: Commit Milestone Documentation
         uses: EndBug/add-and-commit@v4.4.0
         with:
